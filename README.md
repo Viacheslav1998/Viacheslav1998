@@ -28,7 +28,7 @@
 ### 🛠️ Back-end
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,postgresql,cpp,nodejs,git,github,vscode,sublime" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,postgresql,cpp,nodejs" />
 </p>
 
 
@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:amazingSevenfix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
