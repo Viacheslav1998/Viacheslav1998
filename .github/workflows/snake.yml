@@ -2,8 +2,8 @@ name: Generate Snake F
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:    
+    - cron: "0 0 * * *"
+  workflow_dispatch:     
 
 permissions:
   contents: write
@@ -23,8 +23,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed=0.3
 
+     
       - name: Add black background
         run: |
+          chmod -R 777 dist
           sed -i 's|<svg width|<svg style="background-color:#000000" width|' dist/github-contribution-grid-snake-dark.svg
 
       - name: Push snake animation to the output branch
