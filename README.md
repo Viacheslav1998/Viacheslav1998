@@ -76,8 +76,7 @@
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/Viacheslav1998/Viacheslav1998/output/github-contribution-grid-snake-matrix.svg?t=1)
-
+![snake animation](https://raw.githubusercontent.com/Viacheslav1998/Viacheslav1998/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
