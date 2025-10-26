@@ -3,7 +3,7 @@ name: Generate Snake F
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:     
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,23 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate dark snake (slow + black bg)
+      - name: Generate dark snake (slow, solid black background)
         uses: Platane/snk@v3
         with:
           github_user_name: Viacheslav1998
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed=0.3
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed=0.3&background=#000000
 
-     
-      - name: Add black background
-        run: |
-          chmod -R 777 dist
-          sed -i 's|<svg width|<svg style="background-color:#000000" width|' dist/github-contribution-grid-snake-dark.svg
-
-      - name: Push snake animation to the output branch
+      - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
