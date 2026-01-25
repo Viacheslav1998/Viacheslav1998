@@ -1,7 +1,7 @@
 
 <br>
 
-<h1 align="center">Привет, я Вячеслав< 👋</h1>
+<h1 align="center">Привет, я Вячеслав 👋</h1>
 <h2 align="center">💻 Frontend / Backend / Fullstack разработчик</h2>
 
 
