@@ -79,7 +79,12 @@
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/Viacheslav1998/Viacheslav1998/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viacheslav1998/Viacheslav1998/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com">
+</picture>
+
 
 ---
 
