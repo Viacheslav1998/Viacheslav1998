@@ -49,8 +49,6 @@
 
 ### 📈 Статистика GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats-ten-snowy.vercel.app)](https://git.io)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
