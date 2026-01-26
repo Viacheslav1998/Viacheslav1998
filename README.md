@@ -50,14 +50,10 @@
 ### 📈 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=shadow_red" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav1998&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav1998&layout=compact&theme=shadow_red" alt="Top Languages" />
   <br>
-
-
-<br>
-  
   <img src="https://streak-stats.demolab.com?user=Viacheslav1998&theme=youtube-dark&border_radius=4.6&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" />
   <br>
 </p>
