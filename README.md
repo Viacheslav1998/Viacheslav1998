@@ -6,7 +6,7 @@
 
 
 
-###🧠 Немного обо мне:
+### 🧠 Немного обо мне:
 - 🔭 **В работе:** Проектирование систем по DDD, работа с очередями, контейнеризация (WSL/Docker) и глубокая оптимизация PostgreSQL.
 - 🌱 **Изучаю:** Расширяю экспертизу в TypeScript, React и системном программировании на C++.
 - 💬 **Открыт к общению:** Fullstack / Backend разработка.
@@ -54,8 +54,8 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav1998&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viacheslav1998&theme=tokyonight" alt="GitHub Streak" />
-    <br>
+  <img src="https://streak-stats.demolab.com?user=Viacheslav1998&theme=youtube-dark&border_radius=4.6&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" />
+  <br>
 </p>
 
 [![Viacheslav1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav1998&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
