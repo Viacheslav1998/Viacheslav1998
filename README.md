@@ -49,13 +49,10 @@
 
 ### 📈 Статистика GitHub
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=shadow_red"  width="50%" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav1998&layout=compact&theme=shadow_red"  width="50%" alt="Top Languages" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=Viacheslav1998&theme=youtube-dark&border_radius=4.6&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&card_height=200"  width="50%" alt="GitHub Streak" />
-  <br>
 </p>
 
 [![Viacheslav1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav1998&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
