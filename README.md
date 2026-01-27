@@ -51,10 +51,10 @@
 
 <table width="100%">
   <tr>
-    <td width="55%" align="center">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=shadow_red"  width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center">
+    <td align="center">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav1998&layout=compact&theme=shadow_red"  width="100%" alt="Top Languages" />
     </td>
   </tr>
