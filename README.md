@@ -51,7 +51,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="55%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=shadow_red"  width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
@@ -62,7 +62,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-       <img src="https://streak-stats.demolab.com?user=Viacheslav1998&theme=youtube-dark&border_radius=4.6&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500"  width="100%" alt="GitHub Streak" />
+       <img src="https://streak-stats.demolab.com?user=Viacheslav1998&theme=youtube-dark&border_radius=4.6&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&mode=weekly&v=123"  width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
