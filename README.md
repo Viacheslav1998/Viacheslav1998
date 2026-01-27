@@ -31,7 +31,7 @@
 ### 🛠️ Back-end
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=codeigniter,laravel,php,mysql,mariadb,postgresql,cpp,nodejs" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql,cpp,nodejs" />
 </p>
 
 
