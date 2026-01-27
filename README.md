@@ -59,13 +59,6 @@
     </td>
   </tr>
 </table>
-<table width="100%">
-  <tr>
-    <td align="center">
-       <img src="https://streak-stats.demolab.com?user=Viacheslav1998&theme=youtube-dark&border_radius=4.6&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&mode=weekly&v=123"  width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
 
 [![Viacheslav1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav1998&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
