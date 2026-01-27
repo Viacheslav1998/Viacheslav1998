@@ -20,7 +20,7 @@
 
 ### 🛠️ Front-end
 
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,vue,vuetify" />
 </p>
 
@@ -30,7 +30,7 @@
 
 ### 🛠️ Back-end
 
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=laravel,php,postgresql,cpp,nodejs" />
 </p>
 
@@ -40,8 +40,8 @@
 
 ### 🛠️ Dev-Ops / Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,docker,postman" />
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,phpstorm,sublime,docker,postman" />
 </p>
 
 
@@ -72,10 +72,10 @@
 
 <p align="start">
   <a href="https://t.me/VKfullStackDev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
   <a href="mailto:amazingSevenfix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
 </p>
 
