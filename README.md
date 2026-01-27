@@ -60,11 +60,11 @@
   </tr>
 </table>
 
-[![Viacheslav1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav1998&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Viacheslav1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav1998&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Viacheslav1998&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Viacheslav1998&label=Profile%20views&color=0e75b6&color=red" alt="Profile views" />
 </p>
 
 
@@ -72,10 +72,10 @@
 
 <p align="start">
   <a href="https://t.me/VKfullStackDev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red" />
   </a>
   <a href="mailto:amazingSevenfix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
 </p>
 
