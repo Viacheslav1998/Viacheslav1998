@@ -1,8 +1,8 @@
 
 <br>
 
-<h1 align="start">Привет, я Вячеслав 👋</h1>
-<h2 align="start">💻 Frontend / Backend / Fullstack разработчик</h2>
+<h1 align="center">Привет, я Вячеслав 👋</h1>
+<h2 align="center">💻 Frontend / Backend / Fullstack разработчик</h2>
 
 
 
@@ -51,10 +51,10 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="60%">
       <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=shadow_red"  width="100%" alt="GitHub Stats" />
     </td>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav1998&layout=compact&theme=shadow_red"  width="100%" alt="Top Languages" />
     </td>
   </tr>
