@@ -70,7 +70,7 @@
 
 ### 📫 Контакты
 
-<p align="center">
+<p align="start">
   <a href="https://t.me/VKfullStackDev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
