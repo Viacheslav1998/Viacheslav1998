@@ -60,7 +60,6 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats-6od4.vercel.app/?user=Viacheslav1998&theme=synthwave)](https://github.com/Viacheslav1998)
 [![Viacheslav1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav1998&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
