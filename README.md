@@ -59,7 +59,13 @@
     </td>
   </tr>
 </table>
-[fm4k](https://github-readme-streak-stats-6od4.vercel.app/?user=Viacheslav1998&theme=synthwave)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats-6od4.vercel.app/?user=Viacheslav1998&theme=synthwave" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 [![Viacheslav1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav1998&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
