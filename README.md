@@ -54,7 +54,7 @@
     <td align="center" width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=shadow_red&refresh=1"  width="400" alt="GitHub Stats" />
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="38%">
        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viacheslav1998&layout=compact&theme=shadow_red"  width="400" alt="Top Languages" />
     </td>
   </tr>
