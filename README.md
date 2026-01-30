@@ -52,7 +52,7 @@
 <table width="100%">
   <tr>
     <td align="center" colspan="2">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2FViacheslav1998&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Viacheslav1998&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
