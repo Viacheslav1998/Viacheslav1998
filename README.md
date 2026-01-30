@@ -52,10 +52,10 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav1998&cache_seconds=1800&show_icons=true&theme=shadow_red"  width="400" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viacheslav1998&cache_seconds=1800&show_icons=true&theme=shadow_red"  width="400" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav1998&cache_seconds=1800&layout=compact&theme=shadow_red"  width="400" alt="Top Languages" />
+       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viacheslav1998&cache_seconds=1800&layout=compact&theme=shadow_red"  width="400" alt="Top Languages" />
     </td>
   </tr>
 </table>
