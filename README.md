@@ -51,6 +51,11 @@
 
 <table width="100%">
   <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viacheslav1998&show_icons=true&theme=shadow_red&refresh=1"  width="400" alt="GitHub Stats" />
     </td>
