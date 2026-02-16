@@ -1,22 +1,20 @@
 
 <br>
 
-<h1 align="center">Привет, я Вячеслав 👋</h1>
-<h2 align="center">💻 Frontend / Backend / Fullstack разработчик</h2>
+<h1 align="center">Hi, I'm Vyacheslav 👋</h1>
+<h2 align="center">💻 Fullstack Engineer | Backend | DDD & System Design.</h2>
 
+### 🧠 Profile Summary:
+- 🔭 **Currently focused on:** System design using DDD patterns, message queues, containerization (WSL/Docker), and advanced PostgreSQL optimization.
+- 🌱 **Expanding expertise:** Enhancing my skills in TypeScript, React, and low-level system programming with C++.
+- 💬 **Open for:** Fullstack or Backend development opportunities.
 
+### ⚡ Engineering Excellence:
+- **Architecture First:** My core principles are rooted in **DDD, SOLID, DRY, and Clean Architecture**.
+- **Code Quality:** I advocate for self-documenting code and maintain strict discipline in naming conventions and modularity.
+- **AI-Enhanced Workflow:** I leverage AI to automate routine tasks while always cross-referencing with official documentation to ensure deep process understanding.
+- **Sustainability:** I deliver highly readable and maintainable code, building robust systems designed for long-term scalability.
 
-### 🧠 Немного обо мне:
-- 🔭 **В работе:** Проектирование систем по DDD, работа с очередями, контейнеризация (WSL/Docker) и глубокая оптимизация PostgreSQL.
-- 🌱 **Изучаю:** Расширяю экспертизу в TypeScript, React и системном программировании на C++.
-- 💬 **Открыт к общению:** Fullstack / Backend разработка.
-###
-⚡ **Инженерный подход:**
-- Мой стандарт — это **DDD, SOLID, DRY и чистая архитектура**. 
-- Верю в самодокументированный код и строгую дисциплину именования переменных/функций.
-- Умею эффективно использовать ИИ для рутины, но всегда сверяюсь с официальной документацией и глубоким пониманием процессов.
-- Гарантирую высокую читаемость и поддерживаемость кода — строю системы, которые не превращаются в «тыкву» через месяц.
----
 
 ### 🛠️ Front-end
 
